@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarSoee
 - 👀 I’m interested in Anime, Code, Video Games
-- 🌱 I’m currently learning how to live.
+- 🌱 I’m currently learning Electron.js.
 - 💞️ I’m looking to collaborate on Etirium's Launcher.
 - 📫 How to reach me ? By E-Mail : mars.malegeant@gmail.com.
 - ✨ Programming on Microsoft Visual Studio
