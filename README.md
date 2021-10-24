@@ -1,9 +1,24 @@
 - 👋 Hi, I’m @MarSoee
-- 👀 I’m interested in Anime, Code, Video Games
-- 🌱 I’m currently learning Electron.js.
-- 💞️ I’m looking to collaborate on Etirium's Launcher.
+- 👀 I’m interested in Computer Science, Android Dev and UI Design.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on ${project}.
 - 📫 How to reach me ? By E-Mail : mars.malegeant@gmail.com.
-- ✨ Programming on Microsoft Visual Studio
+- ✨ Programming on Android Studio and Visual Studio Code ; Using Windows 11 64 bits.
+
+- Technical Stuff 💻 :
+   - Laptop : Honor MagicBook X15 (Core I3 10th Gen, 8Gb RAM, 256Gb SSD)
+   - PC : Custom Build : I3-9100f 9th Gen, 8Gb RAM, GTX 1650, 1To HDD, 128Gb SSD, 500w PSU
+   - Mouse : Logitech G502 Protheus Spectrum
+   - Keyboard : Logitch G213 and Aukey Mechanical Blue Switches
+   - Mousepad : Razer Chinese Reproduction
+   - Lamp : Ikea
+   - Graphic Tablet : Huion h420 and Gaomon m10k 2018
+   - Screens : Iiyama 24,5" and 23,7"
+   - OS : Fresh Windows 11 x64 Installation
+   - IDEs : Visual Studio Code, Android Studio
+   - Using GitHub Desktop.
+
+
 
 <!---
 MarSoee/MarSoee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
