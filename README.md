@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MarSoee
-- 👀 I’m interested in Computer Science, Android Dev and UI Design.
-- 🌱 I’m currently learning Kotlin.
+- 👋 Hi, I’m @Soetch
+- 👀 I’m interested in Computer Science, Game Dev and UI Design.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ${project}.
 - 📫 How to reach me ? By E-Mail : soetchdev@gmail.com.
-- ✨ Programming on Android Studio and Visual Studio Code ; Using Windows 11 64 bits.
+- ✨ Programming on Visual Studio Code ; Using Windows 11 64 bits.
 
 - Technical Stuff 💻 :
    - Laptop : Honor MagicBook X15 (Core I3 10th Gen, 8Gb RAM, 256Gb SSD)
@@ -18,7 +18,7 @@
    - IDEs : Visual Studio Code, Android Studio
    - Using GitHub Desktop.
 
-
+- Happy Coding! 
 
 <!---
 MarSoee/MarSoee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
