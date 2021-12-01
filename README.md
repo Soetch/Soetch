@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Android Dev and UI Design.
 - 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on ${project}.
-- 📫 How to reach me ? By E-Mail : mars.malegeant@gmail.com.
+- 📫 How to reach me ? By E-Mail : soetchdev@gmail.com.
 - ✨ Programming on Android Studio and Visual Studio Code ; Using Windows 11 64 bits.
 
 - Technical Stuff 💻 :
