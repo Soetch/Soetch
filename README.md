@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Soetch
-- 👀 I’m interested in Computer Science, Game Dev and UI Design.
-- 🌱 I’m currently learning Godot Engine.
-- 💞️ I'm currently working on a project.
-- 📫 How to reach me ? By E-Mail : soetchdev@gmail.com.
-- ✨ Programming on Visual Studio Code ; Using Windows 11 64 bits.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch&show_icons=true)
 
 - Technical Stuff 💻 :
