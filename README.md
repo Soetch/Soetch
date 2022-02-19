@@ -5,7 +5,7 @@
 - 📫 How to reach me ? By E-Mail : soetchdev@gmail.com.
 - ✨ Programming on Visual Studio Code ; Using Windows 11 64 bits.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch)
 
 - Technical Stuff 💻 :
    - Laptop : Honor MagicBook X15 (Core I3 10th Gen, 8Gb RAM, 256Gb SSD)
