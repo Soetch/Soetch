@@ -36,6 +36,8 @@
 ## Stats 📈
 > ![Marceau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch&show_icons=true)
 
+> ![Marceau's Second Stats](https://github.com/Soetch/my-stats/blob/master/generated/overview.svg)
+
 > ![Marceau's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soetch)
 
 > ![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
