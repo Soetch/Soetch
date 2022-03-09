@@ -1,5 +1,7 @@
 # Welcome to Marceau's GitHub !
 
+![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
+
 ## Socials 📱
 <a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://twitch.tv/Soetch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
