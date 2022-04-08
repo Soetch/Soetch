@@ -43,3 +43,5 @@
 > ![Marceau's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soetch)
 
 > ![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
+
+<a href="https://app.daily.dev/soetch"><img src="https://api.daily.dev/devcards/18a3b0b77b6f4271875c791989faab04.png?r=uw4" width="400" alt="Marceau Malegeant's Dev Card"/></a>
