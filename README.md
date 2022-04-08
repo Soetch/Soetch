@@ -44,5 +44,5 @@
 
 > ![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
 
-<a href="https://app.daily.dev/soetch"><img src="https://github.com/Soetch/Soetch/blob/master/devcard.svg" width="400" alt="Soetch's Dev Card"/></a>
+<a href="https://app.daily.dev/soetch"><img src="https://github.com/Soetch/Soetch/devcard.svg" width="400" alt="Soetch's Dev Card"/></a>
  
