@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
 
 ## Socials 📱
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/soetchosu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://twitch.tv/Soetch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="DISCORD.md"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:soetchdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
