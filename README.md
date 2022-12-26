@@ -2,25 +2,23 @@
 
 ![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
 
+## Projects in Progress ☄️
+### Delta Templates
+> Site templates from you and me, in Next.JS and TailwindCSS mainly.
+
 ## Socials 📱
-<a href="https://twitter.com/soetchosu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://twitch.tv/Soetch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://instagram.com/marsoee"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="DISCORD.md"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:soetchdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Technologies 💻
 ### Languages 💾
-#### App Building 🏗️
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
 #### Game Design / Modding 🕹️
 <a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Godot Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"></a>
+
 #### Web Design 📱
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 
 ### Softwares 🖨️
 #### Graphic Design ✏️
@@ -44,5 +42,4 @@
 
 > ![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
 
-<a href="https://app.daily.dev/soetch"><img src="https://github.com/Soetch/Soetch/blob/master/devcard.svg" width="400" alt="Soetch's Dev Card"/></a>
  
