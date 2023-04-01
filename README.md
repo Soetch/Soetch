@@ -1,45 +1,10 @@
 # Welcome to Marceau's GitHub !
 
-![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
-
-## Projects in Progress ☄️
-### Delta Templates
-> Site templates from you and me, in Next.JS and TailwindCSS mainly.
-
-## Socials 📱
-<a href="https://instagram.com/marsoee"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="DISCORD.md"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:soetchdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-## Technologies 💻
-### Languages 💾
-#### Game Design / Modding 🕹️
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-
-#### Web Design 📱
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
-
-### Softwares 🖨️
-#### Graphic Design ✏️
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black"></a>
-
-#### Programming 🤖
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Windows Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white"></a>
-
-### OS 💻
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://twitter.com/Soetch"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-
+Game Design Student.
+I like coding, currently specialized in Maths, Physics and English Litterature.
 
 ## Stats 📈
-> ![Marceau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch&show_icons=true)
+![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
 
-> ![Marceau's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soetch)
-
-> ![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
-
- 
+![Marceau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soetch&show_icons=true)
+![Marceau's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Soetch)
