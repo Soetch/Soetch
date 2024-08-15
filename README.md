@@ -1,7 +1,6 @@
 # Welcome to Marceau's GitHub !
 
-Game Design Student.
-I like coding, currently specialized in Maths, Physics and English Litterature.
+Sound Engineer and artist.
 
 ## Stats 📈
 ![](https://komarev.com/ghpvc/?username=Soetch&style=for-the-badge)
